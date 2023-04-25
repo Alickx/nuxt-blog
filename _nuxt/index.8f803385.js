@@ -1,1 +1,0 @@
-import{a as e,b as t,e as o,f as c,o as a}from"./entry.ae3f4d9f.js";const n={},s=c("h1",null,"这是我的Nuxt博客",-1);function r(l,_){return a(),t("div",null,[s,o(" Welcome to my Nuxt blog! ")])}const f=e(n,[["render",r]]);export{f as default};
