@@ -1,1 +1,0 @@
-import{a as e,o as n,b as c,e as s,f as r}from"./entry.8d85a088.js";const a={},i=s("h1",null,"this is Article",-1),d=[i];function l(t,o){return n(),c("div",null,d)}const f=e(a,[["render",l]]),u={};function m(t,o){const _=f;return n(),c("div",null,[r(_)])}const p=e(u,[["render",m]]);export{p as default};

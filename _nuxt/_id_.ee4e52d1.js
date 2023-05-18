@@ -1,1 +1,0 @@
-import{h as t,i as a,o,b as s,t as n,u as r}from"./entry.8d85a088.js";const _=t({__name:"[id]",setup(i){const e=a();return(u,c)=>(o(),s("div",null," 文章的id是 "+n(r(e).params.id),1))}});export{_ as default};
